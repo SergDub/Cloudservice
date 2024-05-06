@@ -17,6 +17,6 @@ REST-сервис. Сервис предоставляет REST-интерфей
 ## Реализация
 ✓ Приложение разработано с использованием Spring Boot.  
 ✓ Использован сборщик пакетов maven.  
-✓ Класс [TokenScheduler](https://github.com/SergDub/Cloudservice/blob/main/src/main/java/com/example/cloudservice/token_scheduler/TokenScheduler.java) гененирует новый токен авторизации каждый чаc.  
+✓ Класс [TokenScheduler](https://github.com/SergDub/Cloudservice/blob/master/src/main/java/com/example/cloudservice/token_scheduler/TokenScheduler.java) гененирует новый токен авторизации каждый чаc.  
 ✓ Код покрыт unit-тестами с использованием Mockito.  
 ✓ Для запуска приложения нужно открыть в браузере страницу по адресу http://localhost:8081/.
